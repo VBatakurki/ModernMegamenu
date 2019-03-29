@@ -1,0 +1,4 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://etsorg1.sharepoint.com/sites/VB2/Site%20Assets"
+}
